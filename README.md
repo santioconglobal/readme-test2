@@ -2,6 +2,8 @@
 #### heading 4
 ###### heading 6
 
+[ir a creadores](#creadores)
+
 En la clase de hoy vamos a ver markdown y algo más...
 
 Otro párrafo :D
@@ -22,3 +24,9 @@ Otro párrafo :D
 2. Paso 2
 3. Paso 3
 4. Paso 4
+
+
+
+
+
+# creadores
